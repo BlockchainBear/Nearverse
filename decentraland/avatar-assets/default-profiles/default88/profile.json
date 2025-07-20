@@ -1,0 +1,53 @@
+{
+  "avatars": [
+    {
+      "name": "",
+      "description": "",
+      "avatar": {
+        "bodyShape": "urn:decentraland:off-chain:base-avatars:BaseMale",
+        "skin": {
+          "color": {
+            "r": 0.4901960790157318,
+            "g": 0.364705890417099,
+            "b": 0.27843138575553894,
+            "a": 1
+          }
+        },
+        "hair": {
+          "color": {
+            "r": 0.10980392247438431,
+            "g": 0.10980392247438431,
+            "b": 0.10980392247438431,
+            "a": 1
+          }
+        },
+        "eyes": {
+          "color": {
+            "r": 0.7490196228027344,
+            "g": 0.6196078658103943,
+            "b": 0.3529411852359772,
+            "a": 1
+          }
+        },
+        "wearables": [
+          "urn:decentraland:off-chain:base-avatars:green_square_shirt",
+          "urn:decentraland:off-chain:base-avatars:oxford_pants",
+          "urn:decentraland:off-chain:base-avatars:sport_blue_shoes",
+          "urn:decentraland:off-chain:base-avatars:casual_hair_02",
+          "urn:decentraland:off-chain:base-avatars:mouth_03",
+          "urn:decentraland:off-chain:base-avatars:toruspiercing"
+        ],
+        "snapshots": {
+          "face": "QmZzdUKTuv7hCdEgfoxdxdguVAPWJ41MMJp4Zc2WH7J7Rg",
+          "body": "https://peer.decentraland.org/content/contents/QmYVsuYptFNmLZKuRXZqEKTis77hGCqZ7JnwgVALHjrsSg",
+          "face256": "https://peer.decentraland.org/content/contents/undefined"
+        },
+        "emotes": []
+      },
+      "hasClaimedName": false,
+      "ethAddress": "0x1337e0507EB4aB47E08a179573ED4533d9E22a7b",
+      "tutorialStep": 1,
+      "version": 1
+    }
+  ]
+}

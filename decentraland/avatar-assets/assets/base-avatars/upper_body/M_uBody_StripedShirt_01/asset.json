@@ -1,0 +1,22 @@
+{
+  "name": "striped_shirt_01",
+  "i18n": {
+    "en": "Green Striped Shirt",
+    "es": "Remera Rayada Verde"
+  },
+  "tags": [  ],
+  "removesDefaultHiding": [
+    "hands"
+  ],
+  "category": "upper_body",
+  "main": [
+    {
+      "type": "dcl://base-avatars/BaseMale",
+      "model": "M_uBody_StripedShirt_01.glb"
+    },
+    {
+      "type": "dcl://base-avatars/BaseFemale",
+      "model": "F_uBody_StripedShirt_01.glb"
+    }
+  ]
+}

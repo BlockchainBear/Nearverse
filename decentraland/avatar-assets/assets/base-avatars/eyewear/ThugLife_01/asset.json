@@ -1,0 +1,18 @@
+{
+  "name": "thug_life",
+  "i18n": {
+    "en": "Thug Life",
+    "es": "Gafas de fanfarrón"
+  },
+  "tags": [
+    "accesories",
+    "male",
+    "man"
+   ],
+  "category": "eyewear",
+  "main": [
+    {"type": "dcl://base-avatars/BaseMale", "model": "ThugLife_01.glb"},
+    {"type": "dcl://base-avatars/BaseFemale", "model": "ThugLife_01.glb"}
+
+  ]
+}

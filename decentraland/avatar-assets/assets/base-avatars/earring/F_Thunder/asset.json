@@ -1,0 +1,18 @@
+{
+  "name": "thunder_02_earring",
+  "i18n": {
+    "en": "Thunder Earrings",
+    "es": "Pendientes con Forma de Rayos"
+  },
+  "tags": [
+    "accesories",
+    "female",
+    "woman"
+   ],
+  "category": "earring",
+  "main": [
+    {"type": "dcl://base-avatars/BaseFemale", "model": "F_Earrings_Thunder.glb"},
+    {"type": "dcl://base-avatars/BaseMale", "model": "F_Earrings_Thunder.glb"}
+
+  ]
+}

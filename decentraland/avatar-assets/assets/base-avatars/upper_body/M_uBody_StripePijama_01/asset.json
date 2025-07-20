@@ -1,0 +1,22 @@
+{
+  "name": "striped_pijama",
+  "i18n": {
+    "en": "Striped Pajama Shirt",
+    "es": "Remera de Pijama Rayada"
+  },
+  "tags": [  ],
+  "removesDefaultHiding": [
+    "hands"
+  ],
+  "category": "upper_body",
+  "main": [
+    {
+      "type": "dcl://base-avatars/BaseMale",
+      "model": "M_uBody_StripePijama_01.glb"
+    },
+    {
+      "type": "dcl://base-avatars/BaseFemale",
+      "model": "F_uBody_StripePijama_01.glb"
+    }
+  ]
+}

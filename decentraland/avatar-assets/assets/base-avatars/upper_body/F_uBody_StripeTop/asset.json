@@ -1,0 +1,22 @@
+{
+  "name": "striped_top",
+  "i18n": {
+    "en": "Striped Top",
+    "es": "Top a Rayas"
+  },
+  "tags": [  ],
+  "removesDefaultHiding": [
+    "hands"
+  ],
+  "category": "upper_body",
+  "main": [
+    {
+      "type": "dcl://base-avatars/BaseFemale",
+      "model": "F_uBody_StripeTop.glb"
+    },
+    {
+      "type": "dcl://base-avatars/BaseMale",
+      "model": "M_uBody_StripeTop.glb"
+    }
+  ]
+}

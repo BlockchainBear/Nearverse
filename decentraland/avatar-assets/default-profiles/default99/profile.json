@@ -1,0 +1,52 @@
+{
+  "avatars": [
+    {
+      "name": "",
+      "description": "",
+      "avatar": {
+        "bodyShape": "urn:decentraland:off-chain:base-avatars:BaseMale",
+        "skin": {
+          "color": {
+            "r": 0.32156863808631897,
+            "g": 0.1725490242242813,
+            "b": 0.10980392247438431,
+            "a": 1
+          }
+        },
+        "hair": {
+          "color": {
+            "r": 0.5490196347236633,
+            "g": 0.125490203499794,
+            "b": 0.0784313753247261,
+            "a": 1
+          }
+        },
+        "eyes": {
+          "color": {
+            "r": 0.125490203499794,
+            "g": 0.7019608020782471,
+            "b": 0.9647058844566345,
+            "a": 1
+          }
+        },
+        "wearables": [
+          "urn:decentraland:off-chain:base-avatars:turtle_neck_sweater",
+          "urn:decentraland:off-chain:base-avatars:kilt",
+          "urn:decentraland:off-chain:base-avatars:m_mountainshoes.glb",
+          "urn:decentraland:off-chain:base-avatars:keanu_hair",
+          "urn:decentraland:off-chain:base-avatars:full_beard"
+        ],
+        "snapshots": {
+          "face": "QmYk9zrgXyyRP2WGwoC3Lgc6tVu51xdGwSwei9NK7tGeAE",
+          "body": "https://peer.decentraland.org/content/contents/QmRPRk1TjyVhzA6WNqu9G5QvsBRULgV1aXrzkUJ5WzWmUg",
+          "face256": "https://peer.decentraland.org/content/contents/undefined"
+        },
+        "emotes": []
+      },
+      "hasClaimedName": false,
+      "ethAddress": "0x1337e0507EB4aB47E08a179573ED4533d9E22a7b",
+      "tutorialStep": 1,
+      "version": 1
+    }
+  ]
+}

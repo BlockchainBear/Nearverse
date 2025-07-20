@@ -1,0 +1,18 @@
+{
+  "name": "comfortablepants",
+  "i18n": {
+    "en": "Comfortable Pants",
+    "es": "Pantalones Cómodos"
+  },
+  "tags": [
+    "bottom",
+    "male",
+    "man"
+   ],
+  "category": "lower_body",
+  "main": [
+    {"type": "dcl://base-avatars/BaseMale", "model": "M_lBody_ComfortablePants.glb"},
+    {"type": "dcl://base-avatars/BaseFemale", "model": "F_lBody_ComfortablePants.glb"}
+
+  ]
+}

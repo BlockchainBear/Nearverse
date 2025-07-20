@@ -1,0 +1,22 @@
+{
+  "name": "elegant_sweater",
+  "i18n": {
+    "en": "Elegant Sweater",
+    "es": "Sweater Elegante"
+  },
+  "tags": [  ],
+  "removesDefaultHiding": [
+    "hands"
+  ],
+  "category": "upper_body",
+  "main": [
+    {
+      "type": "dcl://base-avatars/BaseMale",
+      "model": "M_uBody_ElegantSweater.glb"
+    },
+    {
+      "type": "dcl://base-avatars/BaseFemale",
+      "model": "F_uBody_ElegantSweater.glb"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "f_simple_yellow_tshirt",
+  "i18n": {
+    "en": "Simple Yellow T-shirt",
+    "es": "Camiseta Amarilla"
+  },
+  "tags": [  ],
+  "removesDefaultHiding": [
+    "hands"
+  ],
+  "category": "upper_body",
+  "main": [
+    {
+      "type": "dcl://base-avatars/BaseMale",
+      "model": "M_uBody_YellowBasicTShirt.glb"
+    },
+    {
+      "type": "dcl://base-avatars/BaseFemale",
+      "model": "F_uBody_YellowBasicTShirt.glb"
+    }
+  ]
+}

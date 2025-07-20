@@ -1,0 +1,18 @@
+{
+  "name": "red_sandals",
+  "i18n": {
+    "en": "Red Sandals",
+    "es": "Sandalias Rojas"
+  },
+  "tags": [
+    "shoes",
+    "woman",
+    "women"
+   ],
+  "category": "feet",
+  "main": [
+    {"type": "dcl://base-avatars/BaseFemale", "model": "F_Feet_RedSandals.glb"},
+    {"type": "dcl://base-avatars/BaseMale", "model": "F_Feet_RedSandals.glb"}
+
+  ]
+}

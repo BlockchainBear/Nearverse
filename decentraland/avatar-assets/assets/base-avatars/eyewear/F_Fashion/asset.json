@@ -1,0 +1,18 @@
+{
+  "name": "f_glasses_fashion",
+  "i18n": {
+    "en": "High Fashion Sunglasses",
+    "es": "Gafas de Estilo"
+  },
+  "tags": [
+    "accesories",
+    "woman",
+    "women"
+   ],
+  "category": "eyewear",
+  "main": [
+    {"type": "dcl://base-avatars/BaseFemale", "model": "F_Eyewear_Fashion.glb"},
+    {"type": "dcl://base-avatars/BaseMale", "model": "F_Eyewear_Fashion.glb"}
+
+  ]
+}

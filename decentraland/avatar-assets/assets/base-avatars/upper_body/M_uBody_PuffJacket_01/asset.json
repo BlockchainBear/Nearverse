@@ -1,0 +1,22 @@
+{
+  "name": "puffer_jacket",
+  "i18n": {
+    "en": "Puffer Jacket",
+    "es": "Chaqueta Mullida"
+  },
+  "tags": [  ],
+  "removesDefaultHiding": [
+    "hands"
+  ],
+  "category": "upper_body",
+  "main": [
+    {
+      "type": "dcl://base-avatars/BaseMale",
+      "model": "M_uBody_PuffJacket_01.glb"
+    },
+    {
+      "type": "dcl://base-avatars/BaseFemale",
+      "model": "F_uBody_PuffJacket_01.glb"
+    }
+  ]
+}

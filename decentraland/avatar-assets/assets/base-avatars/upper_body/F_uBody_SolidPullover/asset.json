@@ -1,0 +1,22 @@
+{
+  "name": "baggy_pullover",
+  "i18n": {
+    "en": "Baggy Pullover",
+    "es": "Suéter de Lana Holgado"
+  },
+  "tags": [  ],
+  "removesDefaultHiding": [
+    "hands"
+  ],
+  "category": "upper_body",
+  "main": [
+    {
+      "type": "dcl://base-avatars/BaseFemale",
+      "model": "F_uBody_SolidPullover.glb"
+    },
+    {
+      "type": "dcl://base-avatars/BaseMale",
+      "model": "M_uBody_SolidPullover.glb"
+    }
+  ]
+}

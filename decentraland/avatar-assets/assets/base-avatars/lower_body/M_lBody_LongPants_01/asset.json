@@ -1,0 +1,18 @@
+{
+  "name": "brown_pants",
+  "i18n": {
+    "en": "Brown Pants",
+    "es": "Pantalón Marrón"
+  },
+  "tags": [
+    "bottom",
+    "male",
+    "man"
+   ],
+  "category": "lower_body",
+  "main": [
+    {"type": "dcl://base-avatars/BaseMale", "model": "M_lBody_LongPants_01.glb"},
+    {"type": "dcl://base-avatars/BaseFemale", "model": "F_lBody_LongPants_01.glb"}
+
+  ]
+}

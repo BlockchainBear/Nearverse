@@ -1,0 +1,13 @@
+{
+    "contributor": [
+        {
+            "name": "Tutorials",
+            "children": [
+                {
+                    "name": "Run a DCL Node",
+                    "slug": "/contributor/tutorials/how-to-run-a-catalyst"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "f_white_shirt",
+  "i18n": {
+    "en": "White Shirt",
+    "es": "Camisa Blanca"
+  },
+  "tags": [  ],
+  "removesDefaultHiding": [
+    "hands"
+  ],
+  "category": "upper_body",
+  "main": [
+    {
+      "type": "dcl://base-avatars/BaseFemale",
+      "model": "F_uBody_WhiteShirt.glb"
+    },
+    {
+      "type": "dcl://base-avatars/BaseMale",
+      "model": "M_uBody_WhiteShirt.glb"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "f_red_simple_tshirt",
+  "i18n": {
+    "en": "Red Simple T-Shirt",
+    "es": "Camiseta Roja Simple"
+  },
+  "tags": [  ],
+  "removesDefaultHiding": [
+    "hands"
+  ],
+  "category": "upper_body",
+  "main": [
+    {
+      "type": "dcl://base-avatars/BaseFemale",
+      "model": "F_uBody_RedBasicTShirt.glb"
+    },
+    {
+      "type": "dcl://base-avatars/BaseMale",
+      "model": "M_uBody_RedBasicTShirt.glb"
+    }
+  ]
+  
+}

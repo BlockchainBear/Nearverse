@@ -1,0 +1,22 @@
+{
+  "name": "roller_outfit",
+  "i18n": {
+    "en": "Roller Skate Outfit",
+    "es": "Remera de Roller Skate"
+  },
+  "tags": [  ],
+  "removesDefaultHiding": [
+    "hands"
+  ],
+  "category": "upper_body",
+  "main": [
+    {
+      "type": "dcl://base-avatars/BaseFemale",
+      "model": "F_uBody_RollerOutfit.glb"
+    },
+    {
+      "type": "dcl://base-avatars/BaseMale",
+      "model": "M_uBody_RollerOutfit.glb"
+    }
+  ]
+}
