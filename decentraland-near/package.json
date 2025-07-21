@@ -1,0 +1,17 @@
+{
+  "name": "decentraland-near",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "near-sdk-js build index.js build/contract.wasm",
+    "deploy": "near deploy --wasmFile build/contract.wasm --accountId my-decentraland.testnet",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "near-sdk-js": "^2.0.0"
+  }
+}
